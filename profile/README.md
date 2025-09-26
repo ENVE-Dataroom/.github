@@ -1,6 +1,6 @@
 # Welcome to our GitHub
 
-![ENVE Logo](enve-logo.png)
+<img width="120" alt="Logo" src="https://github.com/user-attachments/assets/d63cb72f-7265-48bb-bc88-aaa9a10b46c1" />
 
 [Dillien](https://dillien.com/) provides data rooms for all your due dilligence needs!
 
